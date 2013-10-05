@@ -2,6 +2,8 @@ Uruchom przykłady:
  * w terminalu (dolna część ekranu) wpisujemy "python examples/1_helloworld.py" [ENTER]
 
 Napisz program który:
- * pobierze z wejścia liczbę liczb
- * pobierze z wejścia liczby
- * wypisze ich sumę
+ * pobierze z wejścia liczbę liczb całkowitych
+ * pobierze z wejścia w/w liczby
+ * wypisze na ekran ich sumę
+ * wypisze czy suma jest parzysta
+ 
