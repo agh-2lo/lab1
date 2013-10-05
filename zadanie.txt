@@ -3,7 +3,16 @@ Uruchom przykłady:
 
 Napisz program który:
  * pobierze z wejścia ilość liczb całkowitych
- * pobierze z wejścia liczby
+ * pobierze z wejścia liczby (każda w nowej linii)
  * wypisze ich sumę
  * wypisze czy suma jest parzysta
  
+Przykład wejścia:
+3
+12
+-6
+2
+
+Poprawna odpowiedź to:
+8
+Liczba jest parzysta.
