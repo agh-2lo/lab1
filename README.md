@@ -1,3 +1,3 @@
 lab1
 ====
-http://goo.gl/3VmdjH
+Ankieta: http://goo.gl/3VmdjH
