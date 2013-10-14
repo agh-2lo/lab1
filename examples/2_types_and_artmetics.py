@@ -11,7 +11,7 @@ print 3, -2, 3.14159, -2.9
 # print int(3.14159), int(-2.8)
 # print float(3), float(-1)
 
-# Typ float (zmiennoprzecinkowy) ma ograniczoną dokladnosc.
+# Typ float (zmiennoprzecinkowy) ma ograniczona dokladnosc.
 # Dokladnie 15 miejsc po przecinku. Maksymalna dokladnosc liczby Pi wynosi:
 
 # print 3.1415926535897932384626433832795028841971
