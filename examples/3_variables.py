@@ -15,7 +15,7 @@ print hello_world
 # sirName="Kowalski" # (notacja wielbladzia)
 
 #Legalne nazwy:
-# - skladaja sie z liczb, małych i duzych liter oraz podkreslnika _
+# - skladaja sie z liczb, malych i duzych liter oraz podkreslnika _
 # - nie moga zaczynac sie od liczb
 #
 # Hello_Wrold, hello_World, HelloWorld, He11oWor1d
