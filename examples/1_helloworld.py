@@ -1,1 +1,0 @@
-#Nauke kazdego nowego jezyka zaczynamy od napisania Hello World :)print "Hello world!"
